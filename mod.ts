@@ -1,3 +1,4 @@
+// Copyright 2018-2019 the Deno authors. All rights reserved. MIT license.
 export function dedupe (client: Array<any>, hasher?: any) {
     hasher = hasher || JSON.stringify;
 
