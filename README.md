@@ -1,6 +1,8 @@
 Ported from https://github.com/seriousManual/dedupe
 
 # dedupe
+[![Build Status](https://travis-ci.org/Sab94/dedupe.svg?branch=master)](https://travis-ci.org/Sab94/dedupe)
+
 removes duplicates from your array.
 
 ## Usage
