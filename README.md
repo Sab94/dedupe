@@ -9,7 +9,7 @@ removes duplicates from your array.
 
 ### primitive types
 ```typescript
-import { dedupe } from 'https://github.com/Sab94/dedupe/blob/master/mod.ts'
+import { dedupe } from 'https://raw.githubusercontent.com/Sab94/dedupe/master/mod.ts'
 
 var a = [1, 2, 2, 3]
 var b = dedupe(a)
